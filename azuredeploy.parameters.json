@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "serviceBusNamespaceName": {
-            "value": "GEN-UNIQUE"
+            "value": "AA-GEN-UNIQUE"
         },
         "serviceBusQueueName": {
-            "value": "GEN-UNIQUE"
+            "value": "myqueue"
         },
         "eventGridTopicName": {
-            "value": "GEN-UNIQUE"
+            "value": "mytopic"
         },
         "eventGridSubscriptionName": {
-            "value": "GEN-UNIQUE"
+            "value": "mysubscription"
         }
     }
 }
